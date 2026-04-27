@@ -104,6 +104,11 @@ El dashboard permite filtrar la información por mes, actualizando automáticame
 
 ![Vista General](images/informe_filtrado_julio_kpis.png)
 
+
+## Vista del Reporte de Registros Ventas
+
+![Vista General](images/registro_de_ventas)
+
 ---
 
 ## Acceso al Dashboard
