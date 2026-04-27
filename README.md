@@ -107,7 +107,7 @@ El dashboard permite filtrar la información por mes, actualizando automáticame
 
 ## Vista del Reporte de Registros Ventas
 
-![Vista General](images/registro_de_ventas)
+![Vista General](images/registro_de_ventas.png)
 
 ---
 
